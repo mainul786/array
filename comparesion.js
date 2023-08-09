@@ -1,0 +1,10 @@
+console.log(5 > 6);
+console.log(5 < 6);
+console.log(5 == 6);
+console.log(5 === 6);
+console.log(5 >! 6 );
+console.log(5 <! 6);
+console.log(5 >= 6);
+console.log(5 <= 6);
+console.log(5 > 6 && 6 > 7);
+console.log(5 > 6 || 8 > 7);
